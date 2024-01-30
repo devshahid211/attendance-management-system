@@ -1,0 +1,815 @@
+[24-Aug-2023 12:22:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:22:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:23:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:23:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:23:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:23:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:23:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:23:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:23:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:23:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:24:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:24:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:24:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:24:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:25:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:25:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:28:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:30:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:7
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(7): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 7
+[24-Aug-2023 12:34:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:34:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:35:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:35:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:35:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:35:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:35:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:35:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:36:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:36:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:36:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:36:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:37:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:37:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:40:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', 'R+EFzU4d436h', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:41:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', 'R+EFzU4d436h', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:42:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'root', '84H07Mips2vJ0Wb...', 'attendance_shee...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[24-Aug-2023 12:44:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:44:53 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:45:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:45:09 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:45:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:45:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:45:30 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:45:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:45:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:45:40 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:45:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:47:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:47:35 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:47:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:47:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:47:50 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:47:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:51:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:51:25 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:51:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:51:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:51:32 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:51:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:51:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:51:39 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:51:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:53:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:53:34 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:53:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:53:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:53:46 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:53:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:54:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:54:45 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:54:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:56:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:56:31 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:56:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:58:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:58:05 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:58:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:58:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:58:07 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:58:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:58:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:58:43 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:58:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:58:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:58:45 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:58:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:59:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:59:00 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:59:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:59:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:59:53 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:59:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:59:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 12:59:54 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 12:59:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:00:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 13:00:46 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:00:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:00:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 13:00:47 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:00:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:01:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 13:01:05 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:01:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:01:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 13:01:06 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:03:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 13:03:08 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:03:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:03:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 13:03:44 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:03:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:04:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 13:04:03 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:04:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:04:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 13:04:07 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:04:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:08:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 13:08:00 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:08:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:17:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 13:17:08 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:17:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:19:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softheight/public_html/attendance.softheight.com/process/connection.php:57) in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 19
+[24-Aug-2023 13:19:29 UTC] PHP Warning:  Undefined array key "loginData" in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[24-Aug-2023 13:19:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/layouts/sidebar.php on line 15
+[14-Nov-2023 09:08:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/index.php on line 54
+[14-Nov-2023 09:08:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/softheight/public_html/attendance.softheight.com/index.php on line 58
+[06-Dec-2023 07:21:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 07:21:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 07:21:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 07:21:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 07:21:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 07:22:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:00:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:00:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:00:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:00:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:01:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:02:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:04:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:04:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:05:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:06:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:06:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:45:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:45:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:45:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:46:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:46:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:47:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:48:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:49:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:56:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:56:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:56:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:56:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:56:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 08:56:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 09:02:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 09:02:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 09:02:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 09:02:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 09:14:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 09:14:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 09:14:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 09:14:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 09:15:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 11:39:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 11:39:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 11:41:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 13:08:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 13:20:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[06-Dec-2023 13:38:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 02:02:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 07:30:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 07:30:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 07:30:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:15:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:16:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:16:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:18:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:18:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:19:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:19:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:19:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:19:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:30:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:30:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:30:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:30:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:30:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:30:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:30:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:30:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 08:35:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 12:13:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 15:22:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 16:33:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 16:39:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[17-Jan-2024 18:43:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[18-Jan-2024 01:46:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[18-Jan-2024 03:51:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[18-Jan-2024 03:57:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[18-Jan-2024 07:00:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[18-Jan-2024 08:56:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[18-Jan-2024 09:06:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[18-Jan-2024 12:10:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[18-Jan-2024 16:01:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/index.php(3): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[18-Jan-2024 17:52:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[19-Jan-2024 08:12:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[19-Jan-2024 08:43:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
+[19-Jan-2024 08:43:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/softheight/public_html/attendance.softheight.com/process/connection.php:9
+Stack trace:
+#0 /home/softheight/public_html/attendance.softheight.com/process/connection.php(9): mysqli_connect('localhost', 'softheight_atte...', 'cxi5l7mtfrxc', 'softheight_atte...')
+#1 /home/softheight/public_html/attendance.softheight.com/login.php(2): include('/home/softheigh...')
+#2 {main}
+  thrown in /home/softheight/public_html/attendance.softheight.com/process/connection.php on line 9
